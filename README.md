@@ -8,7 +8,12 @@ Primeiro Projeto realizado no curso da Trybe, no qual foi concluido com 100% dos
 
 No projeto, era pedido para se desenvolver uma pagina estatica utilizando apenas html semantico e css.
 
+
+<img width="1335" alt="Exemplo de pull request" src="nota.png">
+
 <br>
+
+
 
 # :hammer_and_wrench: Skills & Tools
 
